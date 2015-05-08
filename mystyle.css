@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+body {
+  background-color: lightgreen;
+  text-align: center;
+  font-family: cursive;
+}
+
+#other-works {
+  text-align: left;
+}
